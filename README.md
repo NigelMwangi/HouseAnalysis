@@ -34,5 +34,8 @@ The stakeholders can contribute to the improvement of the housing market, addres
 -Pdf On Presentation Content - A Summary of the project
 
 -Slides Limks - Presentation on the work Flow of the Project
+## Here is the Link for the Slides on this Project
+## https://docs.google.com/presentation/d/1T8IrMPo0-jQspQjAL9RrTOdIjEGAS0vuWa-k8QtK7a0/edit#slide=id.p
+
 
 
